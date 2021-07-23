@@ -32,11 +32,11 @@ if (isset($_POST['submit'])) {
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style1.css">
 
 	<title>Login Form</title>
 </head>
-<body>
+<body style="background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(assets/images/bg.jpg);">
 	<div class="container">
 		<form action="" method="POST" class="login-email">
 			<p class="login-text" style="font-size: 2rem; font-weight: 800;">Login</p>

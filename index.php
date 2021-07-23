@@ -61,7 +61,7 @@
                             <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
                             <li class="scroll-to-section"><a href="#about">About</a></li>
                             <li class="scroll-to-section"><a href="#">Courses</a></li>
-                            <li class="scroll-to-section"><a href="#">Services</a></li> 
+                            <li class="scroll-to-section"><a href="payment.php">Services</a></li> 
                             <li class="scroll-to-section"><a href="#contact-us">Contact Us</a></li>
 							<li class="scroll-to-section"><a href="login.php">Login</a></li> 
                         </ul>        
